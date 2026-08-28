@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/admin/AdminPortal.tsx","./src/extraction/ExtractionPanel.tsx","./src/layers/LayerPanel.tsx","./src/map/MapComponent.tsx","./src/query-builder/QueryBuilderPanel.tsx"],"version":"6.0.3"}

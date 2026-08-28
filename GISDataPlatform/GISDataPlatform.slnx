@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="GISDataPlatform.API/GISDataPlatform.API.csproj" />
+  <Project Path="GISDataPlatform.Application/GISDataPlatform.Application.csproj" />
+  <Project Path="GISDataPlatform.Domain/GISDataPlatform.Domain.csproj" />
+  <Project Path="GISDataPlatform.Infrastructure/GISDataPlatform.Infrastructure.csproj" />
+  <Project Path="GISDataPlatform.Tests/GISDataPlatform.Tests.csproj" />
+</Solution>

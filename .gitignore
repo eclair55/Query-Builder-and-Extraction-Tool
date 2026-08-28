@@ -1,0 +1,14 @@
+# Build outputs
+**/bin/
+**/obj/
+bin/
+obj/
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.vscode/
+.idea/
+*.user
+*.suo
+*.cache
